@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=still-frosty.visitor-badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=still-frosty.still-frosty" />
 
 <<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👻;+I'm+Opeyemi+!+👻;" />
@@ -16,16 +16,13 @@
 
 💬 Ask me about **C#, 2D & 3D Game development in Unity... or anything [here](Harwobade@gmail.com)**
 
-👻 Fun fact **You're here because you noticed me somewhere elses first**
+👻 Fun fact **You're here because you noticed me somewhere elses**
 
  </div>
  
 <div align="center"> 
   <a href="Harwobade@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -35,7 +32,7 @@
 <br/>
 <div align="center">
     
-<img src="[![My Skills](https://skillicons.dev/icons?i=cs,unity=3)](https://skillicons.dev)" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=cs,unity" width={100}/><br>
 </div>
 
 <br/>
