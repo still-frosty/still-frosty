@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=cs,unity" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=cs,unity,vscode,visualstudio" width={100}/><br>
 </div>
 
 <br/>
